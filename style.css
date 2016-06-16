@@ -1,0 +1,505 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    width: 100%;
+    height: 100%
+
+}
+
+.social-icons {
+    float: right;
+    background-color: firebrick;
+    height: 60px;
+    width: 120px;
+    position: relative;
+    margin-top: -54px;;
+
+}
+
+ul#menu0 {
+    padding: 0;
+}
+
+ul#menu0 li {
+    display: inline;
+    font-size: 15px;
+
+}
+
+ul#menu0 li a {
+    color: white;
+    text-decoration: none;
+
+}
+
+ul#menu0 li a:hover {
+    text-decoration: none;
+    color: #000;
+
+}
+
+h1 {
+    background-color: white;
+    color: dimgray;
+    font-style: normal;
+    font-size: 300%;
+    text-align: center;
+    padding-bottom: 40px;
+    padding-top: 50px;
+    margin-bottom: 1px;
+    margin-top: 1px;
+    width: 1100px;
+    margin: auto;
+}
+
+ul#menu {
+    padding: 0px;;
+    margin-top: 11px;
+    margin-bottom: 0px;
+    float: left;
+
+}
+
+ul#menu li {
+    display: inline;
+
+}
+
+ul#menu li a {
+    background-color: white;
+    color: black;
+    border-right: groove;
+    font-size: 131git stat%;
+    text-decoration: none;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 24px;
+    padding-top: 12px
+
+}
+
+.buttonmax {
+
+    background-color: white;
+    border: none;
+    color: firebrick;
+    padding: 20px 30px;
+    text-align: center;
+    margin: auto;
+    margin: auto;
+    display: inline-block;
+    font-size: 20px;
+    margin-left: 98px;
+    margin-top: 20px;
+    cursor: pointer;
+    border-radius: 9px;
+
+}
+
+h2 {
+
+    font-weight: normal;
+    text-align: center;
+    color: antiquewhite;
+    font-size: 200%;
+    padding-left: 100px;;
+}
+
+h3 {
+
+    font-weight: normal;
+    text-align: center;
+    color: antiquewhite;
+    font-size: 250%;
+    padding-left: 120px;;
+}
+
+.left {
+    margin: auto;
+    float: left;
+    width: 330px;
+    height: 410px;
+    border-style: none;
+    margin-left: 22px;;
+    padding-top: -10px;
+    padding-bottom: 80px;
+    margin-top: -10px;
+
+}
+
+.buttonMinidiv {
+    background-color: firebrick;
+    float: left;
+    border: none;
+    color: white;
+    padding: 16px 30px;
+    display: inline-block;
+    font-size: 20px;
+    margin-top: 20px;
+    cursor: pointer;
+    border-radius: 9px;
+
+}
+
+ul#address li {
+    color: white;
+    display: inline;
+    padding: 10px
+}
+
+ul#address {
+    color: white;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;;
+}
+
+h4 {
+    font-weight: normal;
+    text-align: left;
+    color: firebrick;
+    font-size: 30px;
+
+}
+
+h5 {
+    font-weight: normal;
+    text-align: left;
+    color: dimgray;
+    font-size: 20px;
+
+}
+
+ul#line li {
+
+    display: inline;
+    list-style-type: none;
+
+}
+
+ul#line {
+    margin-top: 0px;
+    padding-top: 30px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+}
+
+ul#img li {
+
+    margin: 10px;
+    border-bottom: solid;
+    color: firebrick;
+    float: left;
+    width: 240px;
+}
+
+div.desc {
+    padding: 25px;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+}
+
+h6 {
+    font-weight: normal;
+    text-align: left;
+    color: firebrick;
+    font-size: 24px;
+    line-height: 150%;;
+    margin: 3px;
+
+}
+
+.buttonMin {
+    background-color: firebrick;
+    float: left;
+    border: none;
+    color: white;
+    padding: 12px 20px;
+    display: inline-block;
+    font-size: 20px;
+    margin-top: 20px;
+    cursor: pointer;
+    border-radius: 9px;
+
+}
+
+ul {
+    list-style-type: none;
+}
+
+.buttonPlus1 {
+    background-color: firebrick;
+    float: left;
+    border: none;
+    color: white;
+    padding: 12px 20px;
+    display: inline-block;
+    font-size: 20px;
+    margin-top: 6px;
+    cursor: pointer;
+    border-radius: 9px;
+    margin-left: 26px;
+
+}
+.buttonPlus2 {
+    background-color: firebrick;
+    float: left;
+    border: none;
+    color: white;
+    padding: 12px 20px;
+    display: inline-block;
+    font-size: 20px;
+    margin-top: 6px;
+    cursor: pointer;
+    border-radius: 9px;
+    margin-left: 26px;
+
+}
+.buttonPlus3 {
+    background-color: firebrick;
+    float: left;
+    border: none;
+    color: white;
+    padding: 12px 20px;
+    display: inline-block;
+    font-size: 20px;
+    margin-top: 6px;
+    cursor: pointer;
+    border-radius: 9px;
+    margin-left: 26px;
+
+}
+.buttonPlus4 {
+    background-color: firebrick;
+    float: left;
+    border: none;
+    color: white;
+    padding: 12px 20px;
+    display: inline-block;
+    font-size: 20px;
+    margin-top: 6px;
+    cursor: pointer;
+    border-radius: 9px;
+    margin-left: 26px;
+
+}
+
+.buttonText {
+    background-color: white;
+    float: left;
+    border: none;
+    color: dimgrey;
+    padding-bottom: 12px;
+    padding-top: 12px;
+    display: inline-block;
+    font-size: 20px;
+    margin-top: 6px;
+    cursor: pointer;
+    margin-left: 26px;
+
+}
+
+div.text {
+    width: 360px;
+    float: left;
+    padding-right: 11px;
+    padding-left: 14px;
+    height: 200px;;
+    margin: auto;
+
+}
+
+img.face {
+
+    float: left;
+
+}
+
+a.John {
+    float: left;
+    color: white;
+    font-weight: 900;
+    font-size: 130%;
+    text-decoration: none
+}
+
+h7.endface {
+    font-size: 110%;
+    float: left;
+    margin: 0px;
+    padding-right: 10px;
+    color: white;
+    text-align: left;
+
+}
+
+h8.ago {
+    float: left;
+    color: white;
+    font-weight: 900;
+    font-size: 110%;
+    padding-bottom: 50px;
+
+}
+
+h9.end {
+    text-align: center;
+    color: white;
+    font-weight: 500;
+    font-size: 110%;
+
+}
+
+.lightbox {
+
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color:rgba(0,0,0,0.7);
+	top:0;
+	left:0;
+	
+
+}
+
+.lightboxImg {
+    width: 600px;
+    height: 600px;
+	 margin: auto;
+	 margin-top:200px;
+	
+
+}
+
+.lightboxImgX {
+    width: 40px;
+    height: 40px;
+    margin-bottom: 560px;
+}
+
+.lightbox2 {
+
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color:rgba(0,0,0,0.7);
+	top:0;
+	left:0;
+	
+
+}
+
+.lightboxImg2 {
+     width: 600px;
+    height: 600px;
+	 margin: auto;
+	 margin-top:200px;
+
+}
+
+.lightboxImgX2 {
+    width: 40px;
+    height: 40px;
+    margin-bottom: 560px;
+}
+
+.lightbox3 {
+
+   position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color:rgba(0,0,0,0.7);
+	top:0;
+	left:0;
+	
+
+}
+
+.lightboxImg3 {
+     width: 600px;
+    height: 600px;
+	 margin: auto;
+	 margin-top:200px;
+
+}
+
+.lightboxImgX3 {
+    width: 40px;
+    height: 40px;
+    margin-bottom: 560px;
+}
+
+.lightbox4 {
+
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color:rgba(0,0,0,0.7);
+	top:0;
+	left:0;
+	
+
+}
+
+.lightboxImg4 {
+   width: 600px;
+    height: 600px;
+	 margin: auto;
+	 margin-top:200px;
+}
+
+.lightboxImgX4 {
+    width: 40px;
+    height: 40px;
+    margin-bottom: 560px;
+}
+.OpenClose1{
+	
+	background-color: white;
+	height: 130px;
+	width: 460px;
+	margin-bottom: 0px;
+	margin-top: -20px;
+	display: none;
+
+	
+}.OpenClose2{
+	
+	background-color: white;
+	height: 130px;
+	width: 460px;
+	margin-bottom: 0px;
+	margin-top: -20px;
+	display: none;
+
+	
+}
+.OpenClose3{
+	
+	background-color: white;
+	height: 130px;
+	width: 460px;
+	margin-bottom: 0px;
+	margin-top: -20px;
+	display: block;
+	
+}
+.OpenClose4{
+	
+	background-color: white;
+	height: 130px;
+	width: 460px;
+	margin-bottom: 0px;
+	margin-top: -20px;
+	display: none;
+
+	
+}
